@@ -1,0 +1,97 @@
+/* *****************************************************
+GENERAL
+***************************************************** */
+/*COLORS
+Primary Dark = #1B2355
+Pimary Light = #A0CCE3
+Secondary Dark = #F66464
+Secondary Light = #E79294
+Tertiary Dark = #8A859B
+Tertiary Mid = #BAC0BA
+Tertiary Light = #E8ECEF
+
+FONTS
+font-family: 'Contrail One', cursive;
+font-family: 'Work Sans', sans-serif;
+*/
+
+body {
+  font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Contrail One', cursive;
+}
+
+p {
+  text-align: center;
+}
+
+i {
+  float: right;
+}
+
+a.to-top {
+  color: #F66464;
+}
+
+img {
+  height: 200px;
+}
+
+/* *****************************************************
+NAV
+***************************************************** */
+nav {
+  background-color: #1B2355;
+  color: #fff;
+  height: 50px;
+}
+
+nav a,
+nav a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav ul {
+  font-size: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  width: 19vw;
+  font-size: 1.5rem;
+  border-right: 1px solid#E79294;
+  text-align: center;
+  line-height: 50px;
+}
+
+nav ul li:last-of-type {
+    border-right: 0;
+}
+
+
+
+
+
+/* *****************************************************
+HOME
+***************************************************** */
+
+/* *****************************************************
+ABOUT-ME
+***************************************************** */
+
+/* *****************************************************
+PROJECTS
+***************************************************** */
+
+/* *****************************************************
+RESUME
+***************************************************** */
+
+
+/* *****************************************************
+CONTACT
+***************************************************** */
